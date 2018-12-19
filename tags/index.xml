@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Learning Along The Way</title>
-    <link>./tags/</link>
+    <link>https://granthanham.github.io/tags/</link>
     <description>Recent content in Tags on Learning Along The Way</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://granthanham.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What Do You Do</title>
-      <link>./tags/what-do-you-do/</link>
+      <link>https://granthanham.github.io/tags/what-do-you-do/</link>
       <pubDate>Wed, 19 Dec 2018 19:29:31 +1300</pubDate>
       
-      <guid>./tags/what-do-you-do/</guid>
+      <guid>https://granthanham.github.io/tags/what-do-you-do/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whats Your Why</title>
-      <link>./tags/whats-your-why/</link>
+      <link>https://granthanham.github.io/tags/whats-your-why/</link>
       <pubDate>Wed, 19 Dec 2018 19:29:31 +1300</pubDate>
       
-      <guid>./tags/whats-your-why/</guid>
+      <guid>https://granthanham.github.io/tags/whats-your-why/</guid>
       <description></description>
     </item>
     

@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>./2018/whatdoyoudoforajob/</loc>
+    <loc>https://granthanham.github.io/2018/whatdoyoudoforajob/</loc>
     <lastmod>2018-12-19T19:29:31+13:00</lastmod>
   </url>
   
   <url>
-    <loc>./archives/2018/</loc>
-    <lastmod>2018-12-19T19:29:31+13:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>./archives/</loc>
+    <loc>https://granthanham.github.io/archives/2018/</loc>
     <lastmod>2018-12-19T19:29:31+13:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./</loc>
+    <loc>https://granthanham.github.io/archives/</loc>
     <lastmod>2018-12-19T19:29:31+13:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./post/</loc>
+    <loc>https://granthanham.github.io/</loc>
     <lastmod>2018-12-19T19:29:31+13:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>./tags/what-do-you-do/</loc>
+    <loc>https://granthanham.github.io/post/</loc>
     <lastmod>2018-12-19T19:29:31+13:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./tags/whats-your-why/</loc>
+    <loc>https://granthanham.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://granthanham.github.io/tags/what-do-you-do/</loc>
+    <lastmod>2018-12-19T19:29:31+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://granthanham.github.io/tags/whats-your-why/</loc>
     <lastmod>2018-12-19T19:29:31+13:00</lastmod>
     <priority>0</priority>
   </url>
