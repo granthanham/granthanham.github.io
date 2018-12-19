@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>./2018/whatdoyoudoforajob/</loc>
+    <lastmod>2018-12-19T19:29:31+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./archives/2018/</loc>
+    <lastmod>2018-12-19T19:29:31+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./archives/</loc>
+    <lastmod>2018-12-19T19:29:31+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./</loc>
+    <lastmod>2018-12-19T19:29:31+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./post/</loc>
+    <lastmod>2018-12-19T19:29:31+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./tags/what-do-you-do/</loc>
+    <lastmod>2018-12-19T19:29:31+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>./tags/whats-your-why/</loc>
+    <lastmod>2018-12-19T19:29:31+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
